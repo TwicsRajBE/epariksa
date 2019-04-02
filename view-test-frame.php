@@ -1,3 +1,5 @@
+
+<!-- this is view frame for test panel -->
 <?php include('epariksa-transed-config.php'); 
 
 if(isset($_POST["search_submit"])) {
